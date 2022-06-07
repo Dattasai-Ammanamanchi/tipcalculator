@@ -1,0 +1,21 @@
+#container{
+    border-style:dashed;
+    border-width: 6px;
+    border-radius: 2px;
+    border-color:black;
+    width:20%;
+    height:350px;
+ 
+}
+
+input{
+    padding:5px;
+    margin:15px;
+   
+}
+
+label{
+    margin:13px;
+    border:2px;   
+}
+
